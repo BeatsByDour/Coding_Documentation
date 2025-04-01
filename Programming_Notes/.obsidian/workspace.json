@@ -6,6 +6,7 @@
       {
         "id": "e182a017a70b5d30",
         "type": "tabs",
+        "dimension": 37.119289340101524,
         "children": [
           {
             "id": "41e6ee9eca2f13e1",
@@ -26,6 +27,7 @@
       {
         "id": "b2f98524d26b5345",
         "type": "tabs",
+        "dimension": 62.880710659898476,
         "children": [
           {
             "id": "3dd5e651f91d698d",
@@ -47,16 +49,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/C(basic)-Variables.md",
+                "file": "C/C(basic)-Datatypes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C(basic)-Variables"
+              "title": "C(basic)-Datatypes"
+            }
+          },
+          {
+            "id": "4992d491d62d5440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/C(advanced)-Datatypes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C(advanced)-Datatypes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +219,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "383537d4c3f7f279",
+  "active": "4992d491d62d5440",
   "lastOpenFiles": [
+    "C/C(basic)-Datatypes.md",
+    "C/C(advanced)-Datatypes.md",
+    "Basics.md",
+    "DataTypes.md",
     "Template+Uitleg.md",
-    "C/C(basic)-Variables.md",
     "Unity/Csharp(unity)-RigidbodyMovement.md",
     "2025-03-25.md",
     "Untitled.canvas",
