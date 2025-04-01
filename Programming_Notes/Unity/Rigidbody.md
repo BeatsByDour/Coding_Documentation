@@ -1,0 +1,1 @@
+Rigidbody: dit is een component in unity die het mogelijk maakt voor physics berekeningen op het huidig gameobject. 
