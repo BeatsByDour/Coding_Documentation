@@ -1,6 +1,6 @@
 Date: 2025-03-24
 Main: [[Movement]]
-Sub: [[PlayerMovement]], [[Rigidbody]]
+Sub: [[PlayerMovement]], [[Programming_Notes/Unity_00Overview/Rigidbody]]
 Taal/editor: [[CSharp]],[[Unity]]
 Desc: Dit script is geschreven om de speler te laten bewegen doormiddel van een rigidbody component op de speler.  Het gebruikte voorbeeld script heeft een dependecy aan de inputmanager script voor de gebruikte input van de speler te gebruiken voor de movement
 
