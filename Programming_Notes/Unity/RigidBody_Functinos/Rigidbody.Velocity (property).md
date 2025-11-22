@@ -1,17 +1,16 @@
 ---
 
 ---
-
 ---
 
 type: api-function  
-component: Rigidbody  
-category: physics
+component: [[Rigidbody]]  
+category: [[Physics]]
 
 ---
 ## Component / Namespace
 
-- Component: [[Programming_Notes/Unity_00Overview/Rigidbody]]
+- Component [[Rigidbody]]  
 - Namespace: `UnityEngine`
 
 ## Beschrijving
@@ -28,7 +27,7 @@ Leest of stelt de huidige lineaire snelheid van het Rigidbody in wereldruimte in
 - Geen parameters (property).
 ## Retourwaarde
 
-- `Vector3` – Huidige snelheid van het object.
+- [[Vector3]] – Huidige snelheid van het object.
 ## Gedrag / Opmerkingen
 
 - Rechtstreeks aanpassen negeert krachten en resulteert in onmiddellijke snelheidsverandering.
@@ -41,7 +40,7 @@ Leest of stelt de huidige lineaire snelheid van het Rigidbody in wereldruimte in
 ```
 ## Gerelateerde functies
 
-[[Rigidbody.AddForce]]
+[[Rigidbody.Addforce]]
 ## Zie ook (concepten)
 
 [[Concept – Snelheid en versnelling]] 

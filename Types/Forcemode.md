@@ -1,5 +1,3 @@
-# ForceMode
-
 Beschrijving:  
 `ForceMode` is een enum die bepaalt hoe een kracht door AddForce, AddTorque of aanverwante functies op een Rigidbody wordt toegepast.
 

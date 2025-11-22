@@ -1,18 +1,17 @@
 ---
 
 ---
-
 ---
 
 type: api-function  
-component: Rigidbody  
-category: physics
+component: [[Rigidbody]]  
+category: [[Physics]]
 
 ---
 
 ## Component / Namespace
 
-- Component: [[Programming_Notes/Unity_00Overview/Rigidbody]]
+- Component:  [[Rigidbody]]  
 - Namespace: `UnityEngine`
 
 ## Beschrijving
@@ -26,7 +25,7 @@ Verplaatst een kinematic Rigidbody naar een opgegeven positie tijdens de volgend
 ```
 ## Parameters
 
-- **position** – `Vector3` – De doelpositie in wereldruimte waar het object naartoe beweegt.
+- **position** – [[Vector3]] – De doelpositie in wereldruimte waar het object naartoe beweegt.
 
 ## Retourwaarde
 
@@ -45,7 +44,7 @@ Verplaatst een kinematic Rigidbody naar een opgegeven positie tijdens de volgend
 ```
 ## Gerelateerde functies
 
- [[Rigidbody.MoveRotation]] - [[Rigidbody.AddForce]] 
+ [[Rigidbody.MoveRotation]] - [[Rigidbody.Addforce]] 
 
 ## Zie ook (concepten)
 

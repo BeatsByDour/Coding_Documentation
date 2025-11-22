@@ -1,18 +1,17 @@
 ---
 
 ---
-
 ---
 
 type: api-function  
-component: Rigidbody  
-category: physics
+component: [[Rigidbody]]  
+category: [[Physics]]
 
 ---
 
 ## Component / Namespace
 
-- Component: [[Programming_Notes/Unity_00Overview/Rigidbody]]
+- Component: [[Rigidbody]]
 - Namespace: `UnityEngine`
 ## Beschrijving
 
@@ -21,13 +20,13 @@ Voegt een kracht toe aan het Rigidbody-object waardoor het accelereert volgens d
 ## Signatuur
 
 ```
-`void AddForce(Vector3 force, ForceMode mode = ForceMode.Force);`
+void AddForce(Vector3 force, ForceMode mode = ForceMode.Force);
 ```
 ## Parameters
 
-- **force** – `Vector3` – De krachtvector in wereldcoördinaten.
+- **force** – [[Vector3]] – De krachtvector in wereldcoördinaten.
     
-- **mode** – `ForceMode` (optioneel) – De wijze waarop de kracht wordt toegepast (standaard: `ForceMode.Force`).
+- **mode** – [[Forcemode]] (optioneel) – De wijze waarop de kracht wordt toegepast (standaard: `ForceMode.Force`).
 ## Retourwaarde
 
 - Geen returnwaarde.
@@ -40,12 +39,12 @@ Voegt een kracht toe aan het Rigidbody-object waardoor het accelereert volgens d
 ## Voorbeeld
 
 ```
-`rb.AddForce(transform.forward * 500f);`
+rb.AddForce(transform.forward * 500f);
 ```
 
 ## Gerelateerde functies
 
- [[Rigidbody.AddRelativeForce]] - [[Rigidbody.MovePosition]] - [[Rigidbody.AddTorque]] 
+ Rigidbody.AddRelativeForce - [[Rigidbody.MovePosition]] - [[Rigidbody.AddTorque]] 
 
 ## Zie ook (concepten)
 

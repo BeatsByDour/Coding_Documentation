@@ -1,18 +1,17 @@
 ---
 
 ---
-  
----
+ ---
 
 type: api-function  
-component: Rigidbody  
-category: physics
+component: [[Rigidbody]]  
+category: [[Physics]]
 
 ---
 
 ## Component / Namespace
 
-- Component: [[Programming_Notes/Unity_00Overview/Rigidbody]]
+- Component: [[Rigidbody]]
 - Namespace: `UnityEngine`
 ## Beschrijving
 
@@ -21,12 +20,12 @@ Voegt een rotatiekoppel toe aan het Rigidbody-object, waardoor het roteert rond 
 ## Signatuur
 
 ```
-`void AddTorque(Vector3 torque, ForceMode mode = ForceMode.Force);`
+void AddTorque(Vector3 torque, ForceMode mode = ForceMode.Force);
 ```
 ## Parameters
 
-- **torque** – `Vector3` – Het rotatiekoppelvector in wereldruimte.
-- **mode** – `ForceMode` (optioneel) – De wijze waarop het koppel wordt toegepast (standaard: `ForceMode.Force`).
+- **torque** –  [[Vector3]] – Het rotatiekoppelvector in wereldruimte.
+- **mode** – [[Forcemode]] (optioneel) – De wijze waarop het koppel wordt toegepast (standaard: `ForceMode.Force`).
 
 ## Retourwaarde
 
@@ -46,7 +45,7 @@ Voegt een rotatiekoppel toe aan het Rigidbody-object, waardoor het roteert rond 
 
 ## Gerelateerde functies
 
-[[Rigidbody.AddForce]]
+[[Rigidbody.Addforce]]
 
 ## Zie ook (concepten)
 
