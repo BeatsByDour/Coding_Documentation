@@ -1,13 +1,13 @@
 # {{title}}  <!-- bv. Rigidbody.AddForce  -->
 
 ---
-type: api-function
-component: Rigidbody
-category: physics
+type:<!-- bv unity -->
+component: <!-- bv rigibody -->
+category: <!-- bv physics -->
 
 ---
 ## Component / Namespace
-- Component:  <!-- [[Programming_Notes/Unity_00Overview/Rigidbody]] -->
+- Component:  <!-- bv rigibody -->
 - Namespace: `UnityEngine`
 
 ## Beschrijving
@@ -30,12 +30,14 @@ Korte, eigen beschrijving van wat de functie doet en wanneer je ze gebruikt.
 // Kort, specifiek voorbeeld
 ## Gerelateerde functies
 <!--
+bv
 - [[Rigidbody.AddRelativeForce]]
 - [[Rigidbody.MovePosition]]
 - [[CSharp/if-statement]]
 - -->
 ## Zie ook (concepten)
 <!--
+bv
 - [[Concept – Forces en beweging]]
 - [[Concept – Physics update loop (FixedUpdate)]]
 -->
