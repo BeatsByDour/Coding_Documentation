@@ -47,12 +47,14 @@ csharp
 
 csharp
 
-`Quaternion targetRot = Quaternion.LookRotation(targetDirection); rb.MoveRotation(Quaternion.Slerp(rb.rotation, targetRot, Time.fixedDeltaTime * rotSpeed));`
+```
+Quaternion targetRot = Quaternion.LookRotation(targetDirection); rb.MoveRotation(Quaternion.Slerp(rb.rotation, targetRot, Time.fixedDeltaTime * rotSpeed));
+```
 
 ## Gerelateerde functies
 
-<!-- - [[Rigidbody.MovePosition]] - [[Rigidbody.AddTorque]] -->
+[[Rigidbody.MovePosition]] - [[Rigidbody.AddTorque]] 
 
 ## Zie ook (concepten)
 
-<!-- - [[Concept – Kinematic vs dynamic rigidbodies]] - [[Concept – Quaternions]] -->
+ [[Kinematic vs dynamic rigidbodies]] - [[Quaternions]] 

@@ -36,11 +36,10 @@ Leest of stelt de huidige lineaire snelheid van het Rigidbody in wereldruimte in
 
 ```
 `rb.velocity = new Vector3(0, 5, 0);`
-
 ```
 ## Gerelateerde functies
 
 [[Rigidbody.Addforce]]
 ## Zie ook (concepten)
 
-[[Concept – Snelheid en versnelling]] 
+[[Snelheid en versnelling]] 

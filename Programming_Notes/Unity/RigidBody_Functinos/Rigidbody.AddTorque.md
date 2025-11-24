@@ -49,4 +49,4 @@ void AddTorque(Vector3 torque, ForceMode mode = ForceMode.Force);
 
 ## Zie ook (concepten)
 
- [[Concept – Rotatie en koppel]]
+ [[Rotatie en koppel]]

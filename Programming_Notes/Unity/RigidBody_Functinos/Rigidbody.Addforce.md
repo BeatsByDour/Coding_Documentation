@@ -44,8 +44,8 @@ rb.AddForce(transform.forward * 500f);
 
 ## Gerelateerde functies
 
- Rigidbody.AddRelativeForce - [[Rigidbody.MovePosition]] - [[Rigidbody.AddTorque]] 
+ [[Rigidbody.AddRelativeForce]] - [[Rigidbody.MovePosition]] - [[Rigidbody.AddTorque]] 
 
 ## Zie ook (concepten)
 
-[[Concept – Forces en beweging]] - [[Concept – Physics update loop (FixedUpdate)]] 
+[[Forces en beweging]] - [[Physics update loop (FixedUpdate)]] 

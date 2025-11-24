@@ -48,4 +48,4 @@ Verplaatst een kinematic Rigidbody naar een opgegeven positie tijdens de volgend
 
 ## Zie ook (concepten)
 
-[[Concept – Physics update loop (FixedUpdate)]] 
+[[Physics update loop (FixedUpdate)]] 
