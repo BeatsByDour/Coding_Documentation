@@ -73,7 +73,7 @@ float sinValue = Mathf.Sin(angle * Mathf.Deg2Rad);
 
 ## Gerelateerde functies
 
- [[Rigidbody.angularVelocity]] - [[Mathf.Deg2Rad]] - [[Mathf.Rad2Deg]] 
+ [[Rigidbody.angularVelocity (property)]] - [[Mathf.Deg2Rad]] - [[Mathf.Rad2Deg]] 
 
 ## Gerelateerde concepten
 

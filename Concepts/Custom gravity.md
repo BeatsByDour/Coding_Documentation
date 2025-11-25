@@ -73,7 +73,7 @@ Vector3 targetGravity = newPlanetGravity; rb.velocity += Vector3.Lerp(currentGra
 
 ## Gerelateerde functies
 
-[[Rigidbody.useGravity]] - [[Rigidbody.AddForce]] - [[Physics.gravity]] 
+[[Rigidbody.useGravity (property)]] - [[Rigidbody.AddForce]] - [[Physics.gravity]] 
 
 ## Gerelateerde concepten
 

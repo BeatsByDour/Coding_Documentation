@@ -15,5 +15,5 @@ Beschrijving:
 rb.AddForce(Vector3.forward * 10.0f, ForceMode.Impulse);
 ```
 ## Zie ook 
-- [[Unity/Component/Rigidbody]]
-- [[Unity/Type/Vector3]]
+- [[Rigidbody]]
+- [[Vector3]]

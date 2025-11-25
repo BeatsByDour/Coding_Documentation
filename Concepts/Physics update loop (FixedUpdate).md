@@ -72,7 +72,7 @@ void FixedUpdate()
 
 ## Gerelateerde componenten
 
- [[Component/Rigidbody|Rigidbody]] 
+ [[Rigidbody]] 
 
 ## Gerelateerde functies
 

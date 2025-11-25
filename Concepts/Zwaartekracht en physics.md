@@ -65,11 +65,11 @@ Physics.gravity = new Vector3(0, -15f, 0); // Sneller vallen
 
 ## Gerelateerde componenten
 
- [[Component/Rigidbody]] 
+ [[Rigidbody]] 
 
 ## Gerelateerde functies
 
-[[Rigidbody.useGravity]] - [[Physics.gravity]] - [[Rigidbody.AddForce]] 
+[[Rigidbody.useGravity (property)]] - [[Physics.gravity]] - [[Rigidbody.AddForce]] 
 
 ## Gerelateerde concepten
 

@@ -1,17 +1,26 @@
-Categorie: [[Unity/Category/Physics]]
+Categorie: [[Physics]]
 
 Beschrijving:  
 De Rigidbody is de basiscomponent voor fysiek gedrag op een GameObject in Unity; het maakt botsingen, zwaartekracht en krachten op objecten mogelijk.
 
 ## Properties
-- [[Unity/Component/Rigidbody/mass]]
-- [[Unity/Component/Rigidbody/drag]]
-- [[Unity/Component/Rigidbody/velocity]]
+[[Rigidbody.Velocity (property)]]
+[[Rigidbody.useGravity (property)]]
+[[Rigidbody.isKinematic (property)]]
+[[Rigidbody.angularVelocity (property)]]
+[[Rigidbody.mass (property)]]
+[[Rigidbody.maxAngularVelocity (property)]]
 
 ## Methoden
-- [[Unity/Component/Rigidbody/AddForce]]
-- [[Unity/Component/Rigidbody/MovePosition]]
-- [[Unity/Component/Rigidbody/AddTorque]]
+[[Rigidbody.MoveRotation]]
+[[Rigidbody.Addforce]]
+[[Rigidbody.AddTorque]]
+[[Rigidbody.MovePosition]]
+[[Rigidbody.AddRelativeForce]]
+[[Rigidbody.AddRelativeTorque]]
+[[Rigidbody.AddExplosionForce]]
+[[Rigidbody.AddForceAtPosition]]
+
 
 ## Gebruik
 ```
@@ -23,5 +32,5 @@ rb.AddForce(Vector3.up * 10.0f, ForceMode.Impulse);
 ```
 
 `## Zie ook 
-- [[Unity/Component/BoxCollider]] 
-- [[Unity/Type/ForceMode]]`
+- [[BoxCollider]] 
+- [[ForceMode]]

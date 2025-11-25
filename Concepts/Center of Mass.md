@@ -61,7 +61,7 @@ Vector3 wheelPosition = new Vector3(2, 0, 0); rb.AddForceAtPosition(Vector3.forw
 
 ## Gerelateerde functies
 
- [[Rigidbody.centerOfMass]] - [[Rigidbody.worldCenterOfMass]] - [[Rigidbody.AddForceAtPosition]] 
+ [[Rigidbody.centerOfMass (property)]] - [[Rigidbody.worldCenterOfMass (property)]] - [[Rigidbody.AddForceAtPosition]] 
 
 ## Gerelateerde concepten
 

@@ -63,7 +63,7 @@ rb.angularVelocity = Vector3.up * rotationSpeed;`
 
 ## Gerelateerde functies
 
- [[Rigidbody.AddTorque]] - [[Rigidbody.MoveRotation]] - [[Rigidbody.angularVelocity]] 
+ [[Rigidbody.AddTorque]] - [[Rigidbody.MoveRotation]] - [[Rigidbody.angularVelocity (property)]] 
 
 ## Gerelateerde concepten
 
