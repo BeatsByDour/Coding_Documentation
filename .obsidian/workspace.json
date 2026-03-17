@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.AddExplosionForce.md",
+                "file": "Programming_Notes/Bash/Bash_Commands/Command - TOUCH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rigidbody.AddExplosionForce"
+              "title": "Command - TOUCH"
             }
           },
           {
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,8 +250,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "082593679416ad45",
+  "active": "a11fec53d27a847a",
   "lastOpenFiles": [
+    "Programming_Notes/Bash/Bash_Commands/Command - RM.md",
+    "Programming_Notes/Bash/Bash_Commands/Command - MV.md",
+    "Programming_Notes/Bash/Bash_Commands/Command - MKDIR.md",
+    "Programming_Notes/Bash/Bash_Commands/Command - LS.md",
+    "Programming_Notes/Bash/Bash_Commands/Command - GREP.md",
+    "Programming_Notes/Bash/Bash_Commands/Command - CP.md",
+    "Programming_Notes/Bash/Bash_Commands/Command - CD.md",
+    "Programming_Notes/Bash/Bash_Commands/Command - CAT.md",
+    "Programming_Notes/Bash/Bash_Commands/Command -.md",
+    "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.AddExplosionForce.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Programming_Notes/Bash/Bash_Commands/Command - TOUCH.md",
+    "Template/Template - Function.md",
+    "Programming_Notes/Bash/Bash_Commands",
+    "Lora test md file.md",
+    "Programming_Notes/Bash",
     "Types/Forcemode.md",
     "Components/Rigidbody.md",
     "Categories/Physics.md",
@@ -265,28 +282,12 @@
     "Concepts/Lokale vs wereld ruimte.md",
     "Concepts/Kinematic vs dynamic rigidbodies.md",
     "Concepts/Forces en beweging.md",
-    "Concepts/Explosie effecten.md",
-    "Concepts/Custom gravity.md",
-    "Concepts/Center of Mass.md",
-    "Rigidbody.maxAngularVelocity.md",
-    "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.mass (property).md",
-    "Lora test md file.md",
-    "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.Velocity (property).md",
-    "Concept – Forces en beweging.md",
-    "Concept – ForceMode.md",
-    "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.useGravity (property).md",
-    "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.MoveRotation.md",
-    "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.MovePosition.md",
-    "Programming_Notes/Unity/RigidBody_Functinos/Rigidbody.isKinematic (property).md",
     "Component",
     "Unity/Type",
     "Unity",
     "Programming_Notes/Unity/Unity_Examples",
     "Concepts",
     "Programming_Notes/Unity/RigidBody_Functinos",
-    "Categories",
-    "Components",
-    "Types",
-    "Template"
+    "Categories"
   ]
 }
